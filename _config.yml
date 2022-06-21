@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: zyq
+title: 张雅淇的个人博客
+description: 用来记录我的生活和学习
 tags:
   - blog
   - template
@@ -19,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: 3202881254@qq.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
