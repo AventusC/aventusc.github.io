@@ -1,5 +1,5 @@
 ---
-date: 2022-06-21
+date: 2022-06-12
 layout: post
 title: CryptoZombie学习记录
 subtitle: solidity知识总结
