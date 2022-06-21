@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tutorial
-slug: tutorial
-description: A category for tutorial related posts.
+title: Study
+slug: study
+description: A category for study related posts.
 ---
