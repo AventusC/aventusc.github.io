@@ -8,9 +8,6 @@ tags:
  - 学习
 author: aventusc
 ---
-
-# 使用Go语言开发ethereum
-
 ## 	相关概念解释
 
 ### Node.js 
