@@ -1,11 +1,11 @@
 ---
-date: 2022-06-21
+date: 2022-06-12
 layout: post
 title: CryptoZombie学习记录
 subtitle: solidity知识总结
 description: 记录我使用cryptozombie学习solidity的过程
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
+image:https://images.unsplash.com/photo-1543253539-58c7d1c00c8a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjcwOTV9
+optimized_image: https://images.unsplash.com/photo-1543253539-58c7d1c00c8a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjcwOTV9
 category: study
 tags:
 author: aventusc
