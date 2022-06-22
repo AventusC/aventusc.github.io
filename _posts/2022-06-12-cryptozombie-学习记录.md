@@ -8,6 +8,7 @@ image:https://images.unsplash.com/photo-1543253539-58c7d1c00c8a?ixlib=rb-1.2.1&q
 optimized_image: https://images.unsplash.com/photo-1543253539-58c7d1c00c8a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjcwOTV9
 category: study
 tags:
+- solidity
 author: aventusc
 ---
 # CryptoZombies学习
