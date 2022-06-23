@@ -5,5 +5,5 @@ description: Some description.
 permalink: /about/
 ---
 
-# About
-这是用来记录我的学习的博客
+# 关于
+这是用来记录我的学习的博客，欢迎大家联系并与我分享知识！
