@@ -101,5 +101,10 @@ exclude: [
   'README.md'
 ]
 
+markdown: redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
+
+
 # Theme
 version: v3.1.1
