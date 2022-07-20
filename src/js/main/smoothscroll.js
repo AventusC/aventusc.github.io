@@ -4,6 +4,16 @@
  * MIT License
  * http://github.com/cferdinandi/smooth-scroll
  */
+ const ct = document.querySelector('.post-content');  //".post-content"指向文章内容所在的div，需根据实际情况修改
+            scrollnav.init(ct, {
+                debug: false,
+                easingStyle: 'linear',
+                //section为一级目录，subsection为二级目录
+                //以下两行意为h3为一级目录，h4为二级目录（个人只需要一级目录，所以注释了二级目录）
+                sections: ($('.post-content > h1').length>0) ? 'h3' : 'h4',
+                //subSections: ($('.post-content > h1').length>0) ? 'h4' : 'h5',
+            });
+
 
 (function (root, factory) {
     if ( typeof define === 'function' && define.amd ) {
