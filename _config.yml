@@ -1,13 +1,11 @@
 # Site Settings
-name: Jiang
-title: JIANG'S Blog
+name: aventusc
+title: 
 description: 用来记录我的生活和学习
 tags:
   - blog
-  - template
   - jekyll
-  - theme
-  - netlify
+
 show_hero: true
 menu:
   - title: Home
@@ -18,7 +16,7 @@ menu:
     url: /contact
 email: 3202881254@qq.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: aventusc
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -26,7 +24,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: aventusc
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
@@ -35,7 +33,7 @@ medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
@@ -45,7 +43,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "cn"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -107,4 +105,4 @@ redcarpet:
 
 
 # Theme
-version: v3.1.1
+version: v1.1.2
