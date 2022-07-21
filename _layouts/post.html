@@ -25,17 +25,13 @@
 
                 {% if page.image and paginator.activated == nil %}
                     <img src="{{ page.image }}" alt="Featured image" class="post-cover">
-                {% endif %} 
-                      
-                 
-             
-                {{ content }}
-                {% include toc.html html=content %}    
-           
-                 
-                 
+                {% endif %}   
+
                 {% include pagination-post.html progressBar=true %}
-                                  
+                 
+                {% include toc.html html=content %}
+                {{ content }}
+                 
                 {% include pagination-post.html %}
             </article>
 
