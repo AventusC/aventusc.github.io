@@ -7,6 +7,10 @@
         {% include svg-icons.html %}
         {% include header.html %}
          
+         <section class="content">
+                {{ content }}
+                {% include toc.html html=content %}    
+            </section>
       
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
@@ -26,11 +30,6 @@
                 {% if page.image and paginator.activated == nil %}
                     <img src="{{ page.image }}" alt="Featured image" class="post-cover">
                 {% endif %}
-
-            <section class="content">
-                {{ content }}
-                {% include toc.html html=content %}    
-            </section>
                  
                 {% include pagination-post.html progressBar=true %}
 
