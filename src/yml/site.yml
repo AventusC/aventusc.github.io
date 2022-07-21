@@ -1,4 +1,4 @@
-name: jiang
+name: aventusc
 title: jiangs blog
 description: 用于记录我的个人学习
 tags:
@@ -12,11 +12,10 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+    
 email: 3202881254@qq.com
 # See: https://disqus.com/
-disqus_username: @disqus_xMAkmYsmqs
+disqus_username: jiang
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
