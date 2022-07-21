@@ -6,11 +6,17 @@
         {% include minutes-to-read.html %}
         {% include svg-icons.html %}
         {% include header.html %}
-        
+         
+         
+           <section class="content">
+                {{ content }}
+                {% include toc.html html=content %}    
+            </section>
+         
+         
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
                  {{ content }}
-                 {% include toc.html html=content %}
                 <p class="post-info">
                     {% if page.date %}
                         <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
@@ -30,7 +36,7 @@
 
                 {% include pagination-post.html progressBar=true %}
 
-                {% include toc.html html=content %}
+                {% include toc.html %}
 
                 {{ content }}
 
