@@ -10,6 +10,7 @@ layout: compress
         {% include header.html %}
             <section class="content">
                 {{ content }}
+                {% include toc.html html=content %}
             </section>
         {% include footer.html %}
         <script>
