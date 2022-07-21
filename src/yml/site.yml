@@ -1,12 +1,9 @@
-name: Jiang
+name: jiang
 title: jiangs blog
 description: 用于记录我的个人学习
 tags:
   - blog
-  - template
   - jekyll
-  - theme
-  - netlify
 show_hero: true
 menu:
   - title: Home
@@ -19,7 +16,7 @@ menu:
     url: /feed.xml
 email: 3202881254@qq.com
 # See: https://disqus.com/
-disqus_username: jiang
+disqus_username: @disqus_xMAkmYsmqs
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
