@@ -6,11 +6,6 @@
         {% include minutes-to-read.html %}
         {% include svg-icons.html %}
         {% include header.html %}
-         
-         <section class="content">
-                {{ content }}
-                {% include toc.html html=content %}    
-            </section>
       
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
@@ -25,6 +20,12 @@
                     <span>{{ minutesText }}</span>
                 </p>
                 <h1 class="post-title">{{ page.title }}</h1>
+                 
+                   <section class="content">
+                {{ content }}
+                {% include toc.html html=content %}    
+            </section>
+                 
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.image and paginator.activated == nil %}
