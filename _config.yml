@@ -1,5 +1,5 @@
 # Site Settings
-name: aventusc
+name: omwts
 title: 
 description: 用来记录我的生活和学习
 tags:
@@ -24,7 +24,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: aventusc
+github_username: 
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
