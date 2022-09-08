@@ -2,7 +2,7 @@
 date: 2022-06-15
 layout: post
 title: 使用Go语言开发ethereum
-description: 
+description: go语言搭建区块链的基础教程
 image: https://images.unsplash.com/photo-1478827217976-7214a0556393?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjcwOTV9&s=ecf54d4295e5fcf6e1a914d8ccbe37ad
 optimized_image: https://images.unsplash.com/photo-1478827217976-7214a0556393?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjcwOTV9&s=ecf54d4295e5fcf6e1a914d8ccbe37ad
 category: study
