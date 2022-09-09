@@ -3,8 +3,8 @@ date: 2022-09-03
 layout: post
 title: rust入门篇-crate
 description: 介绍集合类型
-image: 22.jpg
-optimized_image: 22.jpg
+image: https://user-images.githubusercontent.com/90261136/189364967-d07f4950-7e52-4145-a308-29c755b746c3.jpg
+optimized_image: https://user-images.githubusercontent.com/90261136/189364967-d07f4950-7e52-4145-a308-29c755b746c3.jpg
 subtitle:
 category: STUDY
 tags:
