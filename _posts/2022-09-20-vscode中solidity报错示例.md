@@ -3,8 +3,8 @@ date: 2022-09-20
 layout: post
 title: vscode中solidity错误的解决办法
 description: 解决vscode中solidity编译和插件问题
-image: https://user-images.githubusercontent.com/90261136/189364967-d07f4950-7e52-4145-a308-29c755b746c3.jpg
-optimized_image: https://user-images.githubusercontent.com/90261136/189364967-d07f4950-7e52-4145-a308-29c755b746c3.jpg
+image: https://user-images.githubusercontent.com/90261136/191211961-0de6f903-c73e-4d21-9840-7d1258213128.jpg
+optimized_image: https://user-images.githubusercontent.com/90261136/191211961-0de6f903-c73e-4d21-9840-7d1258213128.jpg
 subtitle:
 category: STUDY
 tags:
