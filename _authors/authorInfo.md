@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: jiang
+name: 
 display_name: AventusC
 position: Chief Editor
 bio: Just a developer.
