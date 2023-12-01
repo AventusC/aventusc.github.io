@@ -14,7 +14,7 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-email: 3202881254@qq.com
+email: 
 # See: https://disqus.com/
 disqus_username: aventusc
 # Contact Form Setting
@@ -40,8 +40,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "aventusc.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "cn"
 categories_folder: category
